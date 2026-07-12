@@ -7,7 +7,12 @@ A 9 key macropad that I made for Stardance Hackclub. This is my first time desig
  - 0.91" OLED display
  - Silkscreen Timmy(he is cool)
  - KMK firmware
-
+## Keymap
+| =D | Column 1 |  Column 2 | Column 3 |
+| --- | --- | --- | --- |
+| Row 1 | Previous | Pause/Play | Next |
+| Row 2 | ALT+TAB | Up arrow | Alt F4 |
+| Row 3 | Left arrow | Down arrow | Right arrow |
 ## Gallery
 Case Render
 ![Epic CAD Render](assets/cadRender.PNG)
@@ -15,6 +20,7 @@ Schematic
 ![KiCAD schematic](assets/schematic.png)
 PCB
 ![KiCAD PCB](assets/pcb.png)
+![PCB Render](assets/pcbRender.png)
 ## Firmware
 This project uses KMK firmware. Check out [this document](firmware/INFO.md) to learn more.
 ## BOM
