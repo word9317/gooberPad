@@ -8,4 +8,5 @@ Pins and what they do. Used as reference when programming firmware.
 | Encoder Button | Pin | D6 |
 | Encoder axis | Pin A & B | D8, D7 |
 
-**WHEN INSTALLING ADD KMK FOLDER!**
+**WHEN INSTALLING ADD KMK FOLDER! DONT UPLOAD 1bitbmpConverter.py EITHER!**
+This needs Circuitpython, kmk, and adafruit 
