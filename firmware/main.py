@@ -41,9 +41,12 @@ gooberPad.keymap = [
     [
         # Row 1
         KC.MEDIA_PREV_TRACK, KC.MEDIA_PLAY_PAUSE, KC.MEDIA_NEXT_TRACK,
-        # Row 2     
+        # Row 2
+        KC.LGUI(KC.TAB), KC.UP, KC.LALT(KC.F4),
         # Row 3
+        KC.LEFT, KC.DOWN, KC.RIGHT,
         # Encoder button
+        KC.MUTE
     ]
 ]
 encoder.map = [
